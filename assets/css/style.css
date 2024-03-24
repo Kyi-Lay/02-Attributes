@@ -1,0 +1,41 @@
+.section {
+    background-color: rgb(78, 71, 6);
+}
+
+.headers {
+    color: rgb(20, 20, 80);
+}
+
+.s {
+    color: aqua;
+}
+
+#email {
+    background-color: goldenrod;
+}
+
+#github {
+    background-color: lightsteelblue
+}
+
+#portfolio {
+    background-color: darkorange;
+}.section {
+    background-color: rgb(151, 139, 25);
+}
+
+.headers {
+    color: darkblue;
+}
+
+#email {
+    background-color: goldenrod;
+}
+
+#github {
+    background-color: rgb(6, 70, 153)
+}
+
+#portfolio {
+    background-color: rgb(105, 74, 35);
+}
